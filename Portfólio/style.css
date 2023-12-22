@@ -1,0 +1,11 @@
+body{
+    background-color: brown;
+}
+.logo{
+    background-color: blue;
+}
+.navegação{
+    font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    z-index: inherit;
+}
