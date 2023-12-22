@@ -30,7 +30,7 @@ Sinta-se à vontade para explorar mais detalhes sobre cada projeto no respectivo
 Estou sempre aberto a novas oportunidades e colaborações. Se você quiser discutir projetos, tecnologias ou apenas bater um papo, sinta-se à vontade para entrar em contato:
 
 - Email: otavio.itallo@gmail.com
-- LinkedIn: [Itallo Otavio](https://www.linkedin.com/in/itallo-ot%C3%A1vio-8a1429207/)
+- LinkedIn: [itallo Otavio](https://www.linkedin.com/in/itallo-ot%C3%A1vio-8a1429207/)
 
 Fique à vontade para explorar meu trabalho e obrigado por visitar!
 
