@@ -7,21 +7,16 @@ Olá! 👋 Meu nome é Itallo Otavio, um entusiasta da tecnologia e desenvolvedo
 ### [Lar Animal](link_para_o_projeto1)
 [Descrição breve do projeto 1, suas principais funcionalidades e tecnologias utilizadas.]
 
-### [Albuns](link_para_o_projeto1)
+### [Bib Corp](link_para_o_projeto1)
 [Descrição breve do projeto 1, suas principais funcionalidades e tecnologias utilizadas.]
 
 ## Projetos Pessoais
 
 Além dos estudos acadêmicos, dediquei meu tempo a projetos pessoais que refletem minha paixão e habilidades no desenvolvimento de software. Destaco alguns deles abaixo:
 
-### [Nome do Projeto 1](link_para_o_projeto1)
-[Descrição breve do projeto 1, suas principais funcionalidades e tecnologias utilizadas.]
-
-### [Nome do Projeto 2](link_para_o_projeto2)
-[Descrição breve do projeto 2, suas principais funcionalidades e tecnologias utilizadas.]
-
-### [Nome do Projeto 3](link_para_o_projeto3)
-[Descrição breve do projeto 3, suas principais funcionalidades e tecnologias utilizadas.]
+### [Em Andamento)
+[Projeto em andamento.
+Jogo 21]
 
 Sinta-se à vontade para explorar mais detalhes sobre cada projeto no respectivo diretório neste repositório.
 
