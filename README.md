@@ -5,17 +5,14 @@ Olá! 👋 Meu nome é Itallo Otavio, um entusiasta da tecnologia e desenvolvedo
 ## Trabalhos Acadêmicos
 
 ### [Lar Animal](link_para_o_projeto1)
-###Descrição do projeto 
+###[Descrição do projeto] 
 Lar animal é um projeto que tem como objetivo se tornar uma rede de apoio entre ONGs, Grupos Protetores, ativistas da causa animal e tutores de baixa renda a oferecerem resgate e um lar digno e seguro a animais abandonados e em situação de vulnerabilidade. Oferecendo pontos de resgate, campanhas sociais, doações fornecimento de serviços veterinários gratuitos ou a preço social na região metropolitana de BH.
-###tecnologias utilizadas.
-###Versionamento de código:
-Git + Github
-###Front:
-HTML + CSS;
-BootStrap;
-###Back:
-JavaScript
-Local Storage
+
+###[tecnologias utilizadas]
+
+###[Versionamento]: Git + Github
+###[Front]: HTML + CSS; BootStrap;
+###[Back]: JavaScript; Local Storage
 
 CrudServerJSON
 ### [Bib Corp](link_para_o_projeto1)
