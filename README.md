@@ -17,7 +17,7 @@ Front: HTML + CSS; BootStrap;
 Back: JavaScript; Local Storage; CrudServerJSON
 
 ### [Bib Corp](link_para_o_projeto1)
-[Descrição breve do projeto 1, suas principais funcionalidades e tecnologias utilizadas.]
+Em Andamento
 
 ## Projetos Pessoais
 
