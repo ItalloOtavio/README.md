@@ -11,7 +11,9 @@ Lar animal é um projeto que tem como objetivo se tornar uma rede de apoio entre
 tecnologias utilizadas
 
 Versionamento: Git + Github
+
 Front: HTML + CSS; BootStrap;
+
 Back: JavaScript; Local Storage; CrudServerJSON
 
 ### [Bib Corp](link_para_o_projeto1)
