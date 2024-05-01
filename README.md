@@ -25,7 +25,7 @@ Além dos estudos acadêmicos, dediquei meu tempo a projetos pessoais que reflet
 
 ### [Em Andamento)
 [Projeto em andamento.
-Jogo 21]
+Mario]
 
 Sinta-se à vontade para explorar mais detalhes sobre cada projeto no respectivo diretório neste repositório.
 
